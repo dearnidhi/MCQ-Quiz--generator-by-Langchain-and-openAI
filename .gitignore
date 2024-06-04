@@ -1,0 +1,6 @@
+venv
+env
+.env
+QAsystem_with_haystack.egg-info
+.log
+.mcqgenrator.egg-info

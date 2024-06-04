@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the purpose of venv in Python?,a: To create a virtual environment | b: To install external libraries | c: To run Python scripts | d: To store data,a
+Which of the following is used to specify environment variables in Python?,a: env | b: .env | c: venv | d: QAsystem_with_haystack.egg-info,b
+What does the .env file typically contain?,a: Python code | b: Configuration settings | c: HTML markup | d: Database queries,b
+Which of the following is related to packaging in Python?,a: env | b: venv | c: .env | d: QAsystem_with_haystack.egg-info,d
+What is the purpose of QAsystem_with_haystack.egg-info?,a: To create virtual environments | b: To store data | c: To package a Python project | d: To run Python scripts,c
